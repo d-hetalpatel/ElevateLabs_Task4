@@ -2,7 +2,7 @@
 Implementing Logistic Regression as part of internship by Elevate Labs
 Logistic Regression - Binary Classification Workflow
 
-This project demonstrates how to apply Logistic Regression for binary classification using Python and scikit-learn.
+It demonstrates how to apply Logistic Regression for binary classification using Python and scikit-learn.
 
 Steps Covered
 Load Breast Cancer dataset
